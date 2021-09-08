@@ -1,5 +1,9 @@
 # Health Patron ️
 
+Framework: Flutter
+Language: Dart
+Backend: Firebase
+
 A companion app that can be used by medical institutions to keep tabs on their patients with the help of high speed, hassle-free textual communication within the constraints of the available laws implemented by the location of their establishment that is safe to use and retains industry-leading safety measures to ensure doctor-patient privacy. Features ● High-speed messaging ● Contact Information of hospitals ● Contact information of Ambulance services ● Contact Information certified COVID-19 testing clinics ● Display of COVID19 daily stats
 
 ## Screeshots
