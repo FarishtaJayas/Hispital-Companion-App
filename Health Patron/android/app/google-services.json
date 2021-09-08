@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "118074658180",
+    "firebase_url": "https://health-patron-5a0fa.firebaseio.com",
+    "project_id": "health-patron-5a0fa",
+    "storage_bucket": "health-patron-5a0fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118074658180:android:f86420c641cdeb4cb0a1d1",
+        "android_client_info": {
+          "package_name": "com.android.health_patron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118074658180-abrpnhhrgr6l6r9cifcb3gc97t1o066k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRbzSTRcqGnwJJpc_WY0KDUNSrHIpa8Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118074658180-abrpnhhrgr6l6r9cifcb3gc97t1o066k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118074658180:android:d989a246e77c3517b0a1d1",
+        "android_client_info": {
+          "package_name": "com.company.health_patron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118074658180-abrpnhhrgr6l6r9cifcb3gc97t1o066k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRbzSTRcqGnwJJpc_WY0KDUNSrHIpa8Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118074658180-abrpnhhrgr6l6r9cifcb3gc97t1o066k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
